@@ -9,45 +9,45 @@ Detailed solutions for these problems include **Java implementations**, **UML cl
 ## 🏆 Top 10 LLD Interview Questions
 *Core problems commonly asked in engineering interviews at companies like Amazon, Google, Meta, and Microsoft.*
 
-1. [**Designing a Parking Lot System**](https://lldcoding.blogspot.com/2026/05/designing-parking-lot-low-level-design.html) — `Hard`
-2. [**Design an Elevator / Lift System**](https://lldcoding.blogspot.com/2026/05/design-elevatorlift-system.html) — `Medium`
-3. [**Design a Movie Ticket Booking System**](https://lldcoding.blogspot.com/2026/05/design-movie-ticket-booking-system.html) — `Hard`
-4. [**Design a Real-Time Chat Application**](https://lldcoding.blogspot.com/2026/05/design-real-time-chat-application.html) — `Medium`
-5. [**Design a Food Delivery System (Zomato/Swiggy)**](https://lldcoding.blogspot.com/2026/05/design-food-deliveryordering-system.html) — `Hard`
-6. [**Design a Ride-Sharing System (Uber/Ola)**](https://lldcoding.blogspot.com/2026/05/design-ride-sharingbooking-system.html) — `Hard`
-7. [**Design a Rate Limiter System**](https://lldcoding.blogspot.com/2026/05/design-rate-limiter-system.html) — `Medium`
-8. [**Design a Splitwise System**](https://lldcoding.blogspot.com/2026/05/design-splitwise-system.html) — `Medium`
-9. [**Design an ATM System**](https://lldcoding.blogspot.com/2026/05/design-atm-system.html) — `Hard`
-10. [**Design a Chess Game**](https://lldcoding.blogspot.com/2026/05/design-chess-game.html) — `Hard`
+1. [**Designing a Parking Lot System**](https://theweekenddev.com/lld/parking-lot-lld/) — `Hard`
+2. [**Design an Elevator / Lift System**](https://theweekenddev.com/lld/design-an-elevatorlift-system/) — `Medium`
+3. [**Design a Movie Ticket Booking System**](https://theweekenddev.com/lld/movie-ticket-booking/) — `Hard`
+4. [**Design a Real-Time Chat Application**](https://theweekenddev.com/lld/real-time-chat/) — `Medium`
+5. [**Design a Food Delivery System (Zomato/Swiggy)**](https://theweekenddev.com/lld/design-a-food-deliveryordering-system/) — `Hard`
+6. [**Design a Ride-Sharing System (Uber/Ola)**](https://theweekenddev.com/lld/design-a-ride-sharingbooking-system/) — `Hard`
+7. [**Design a Rate Limiter System**](https://theweekenddev.com/lld/design-a-rate-limiter-system/) — `Medium`
+8. [**Design a Splitwise System**](https://theweekenddev.com/lld/design-a-splitwise-system/) — `Medium`
+9. [**Design an ATM System**](https://theweekenddev.com/lld/design-a-atm-system/) — `Hard`
+10. [**Design a Chess Game**](https://theweekenddev.com/lld/design-a-chess-game/) — `Hard`
 
 ---
 
 ## 📂 Most Frequently Asked LLD Problems
 
-- [Design Parking Lot System](https://lldcoding.blogspot.com/2026/05/designing-parking-lot-low-level-design.html) — `Hard`
-- [Design Elevator / Lift System](https://lldcoding.blogspot.com/2026/05/design-elevatorlift-system.html) — `Medium`
-- [Design Movie Ticket Booking System](https://lldcoding.blogspot.com/2026/05/design-movie-ticket-booking-system.html) — `Hard`
-- [Design Snake and Ladder Game](https://lldcoding.blogspot.com/2026/05/design-snake-and-ladder-game.html) — `Easy`
-- [Design Hotel Management System](https://lldcoding.blogspot.com/2026/05/design-hotel-managementbooking-system.html) — `Medium`
-- [Design Food Delivery System](https://lldcoding.blogspot.com/2026/05/design-food-deliveryordering-system.html) — `Hard`
-- [Design Library Management System](https://lldcoding.blogspot.com/2026/05/design-library-management-system.html) — `Easy`
-- [Design Notification System](https://lldcoding.blogspot.com/2026/05/design-notification-system.html) — `Medium`
-- [Design Real-Time Chat Application](https://lldcoding.blogspot.com/2026/05/design-real-time-chat-application.html) — `Medium`
-- [Design Ride Sharing System](https://lldcoding.blogspot.com/2026/05/design-ride-sharingbooking-system.html) — `Hard`
-- [Design E-commerce System](https://lldcoding.blogspot.com/2026/05/design-e-commerceonline-shopping-system.html) — `Hard`
-- [Design Splitwise System](https://lldcoding.blogspot.com/2026/05/design-splitwise-system.html) — `Medium`
-- [Design File Storage System (Google Drive / Dropbox)](https://lldcoding.blogspot.com/2026/05/design-file-storage-system-like-google.html) — `Hard`
-- [Design Rate Limiter System](https://lldcoding.blogspot.com/2026/05/design-rate-limiter-system.html) — `Medium`
-- [Design Airline Reservation System](https://lldcoding.blogspot.com/2026/05/design-airline-reservation-system.html) — `Medium`
-- [Design ATM System](https://lldcoding.blogspot.com/2026/05/design-atm-system.html) — `Hard`
-- [Design Shopping Cart System](https://lldcoding.blogspot.com/2026/05/design-shopping-cart-system.html) — `Easy`
-- [Design Social Media Platform](https://lldcoding.blogspot.com/2026/05/design-social-media-platform-like.html) — `Hard`
-- [Design Online Bookstore System](https://lldcoding.blogspot.com/2026/05/design-online-bookstore-system.html) — `Easy`
-- [Design Meeting Scheduler System](https://lldcoding.blogspot.com/2026/05/design-meeting-scheduler-system.html) — `Medium`
-- [Design Order Inventory Management System](https://lldcoding.blogspot.com/2026/05/design-order-inventory-management-system.html) — `Medium`
-- [Design Customer Issue Resolution System](https://lldcoding.blogspot.com/2026/05/design-customer-issue-resolution-system.html) — `Medium`
-- [Design Chess Game](https://lldcoding.blogspot.com/2026/05/design-chess-game.html) — `Hard`
-- [Design Text Editor / Word Processor](https://lldcoding.blogspot.com/2026/05/design-text-editorword-processor-like.html) — `Hard`
+- [Design Parking Lot System](https://theweekenddev.com/lld/parking-lot-lld/) — `Hard`
+- [Design Elevator / Lift System](https://theweekenddev.com/lld/design-an-elevatorlift-system/) — `Medium`
+- [Design Movie Ticket Booking System](https://theweekenddev.com/lld/movie-ticket-booking/) — `Hard`
+- [Design Snake and Ladder Game](https://theweekenddev.com/lld/snake-and-ladder/) — `Easy`
+- [Design Hotel Management System](https://theweekenddev.com/lld/design-a-hotel-managementbooking-system/) — `Medium`
+- [Design Food Delivery System](https://theweekenddev.com/lld/design-a-food-deliveryordering-system/) — `Hard`
+- [Design Library Management System](https://theweekenddev.com/lld/design-a-library-management-system/) — `Easy`
+- [Design Notification System](https://theweekenddev.com/lld/design-a-notification-system/) — `Medium`
+- [Design Real-Time Chat Application](https://theweekenddev.com/lld/real-time-chat/) — `Medium`
+- [Design Ride Sharing System](https://theweekenddev.com/lld/design-a-ride-sharingbooking-system/) — `Hard`
+- [Design E-commerce System](https://theweekenddev.com/lld/ecommerce-system-lld/) — `Hard`
+- [Design Splitwise System](https://theweekenddev.com/lld/design-a-splitwise-system/) — `Medium`
+- [Design File Storage System (Google Drive / Dropbox)](https://theweekenddev.com/lld/file-storage-system/) — `Hard`
+- [Design Rate Limiter System](https://theweekenddev.com/lld/design-a-rate-limiter-system/) — `Medium`
+- [Design Airline Reservation System](https://theweekenddev.com/lld/design-a-airline-reservation-system/) — `Medium`
+- [Design ATM System](https://theweekenddev.com/lld/design-a-atm-system/) — `Hard`
+- [Design Shopping Cart System](https://theweekenddev.com/lld/design-a-shopping-cart-system/) — `Easy`
+- [Design Social Media Platform](https://theweekenddev.com/lld/social-media-platform/) — `Hard`
+- [Design Online Bookstore System](https://theweekenddev.com/lld/design-a-online-bookstore-system/) — `Easy`
+- [Design Meeting Scheduler System](https://theweekenddev.com/lld/design-a-meeting-scheduler-system/) — `Medium`
+- [Design Order Inventory Management System](https://theweekenddev.com/lld/order-inventory-system/) — `Medium`
+- [Design Customer Issue Resolution System](https://theweekenddev.com/lld/customer-support-system/) — `Medium`
+- [Design Chess Game](https://theweekenddev.com/lld/design-a-chess-game/) — `Hard`
+- [Design Text Editor / Word Processor](https://theweekenddev.com/lld/text-editor-lld/) — `Hard`
 
 ---
 
@@ -62,7 +62,7 @@ Detailed solutions for these problems include **Java implementations**, **UML cl
 ## 🔗 Read Full Solutions
 For deep dives and full implementations, visit the blog:
 
-👉 **[LLD Coding Blog](https://lldcoding.blogspot.com/2026/05/most-frequently-asked-low-level.html)**
+👉 **[The Weekend Dev LLD  Blog](https://theweekenddev.com/lld/)**
 
 ---
 
